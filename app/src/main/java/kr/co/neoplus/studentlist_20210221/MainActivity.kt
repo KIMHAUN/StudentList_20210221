@@ -60,15 +60,5 @@ class MainActivity : AppCompatActivity() {
             return@setOnItemLongClickListener true
 
         }
-
-
-
-
-
-
-
-
-
-
     }
 }
